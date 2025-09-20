@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Salut, je suis Seth Tafika 👋<br>Portfolio : https://sethtafika-v2.vercel.app</h1>
+<h1 align="left">Salut, je suis Seth Tafika 👋<br><h3>Portfolio : https://sethtafika-v2.vercel.app</h3>
 
 ###
 
